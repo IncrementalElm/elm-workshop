@@ -22,8 +22,8 @@ npm install -g elm elm-test@elm-0.19.0 elm-format
 Run this at the terminal:
 
 ```shell
-git clone https://github.com/rtfeldman/elm-0.19-workshop.git
+git clone https://github.com/IncrementalElm/elm-workshop.git
 cd elm-0.19-workshop
 ```
 
-6. Continue with either the [`intro`](https://github.com/rtfeldman/elm-0.19-workshop/blob/master/intro/README.md) or [`advanced`](https://github.com/rtfeldman/elm-0.19-workshop/blob/master/advanced/README.md) instructions, depending on which workshop you're doing!
+6. Continue with either the [`intro`](https://github.com/IncrementalElm/elm-workshop/blob/master/intro/README.md) or [`advanced`](https://github.com/IncrementalElm/elm-workshop/blob/master/advanced/README.md) instructions, depending on which workshop you're doing!
